@@ -33,7 +33,7 @@
 
 ## Acknowledgments
 
-- Thanks to Miroverse for the Opportunity. 
+- Thanks to Microverse for the Opportunity. 
 
 ## 📝 License
 
